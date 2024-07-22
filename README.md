@@ -31,12 +31,11 @@ Hi there! I'm a passionate developer with a focus on Computer Science and Inform
 - ![Android Studio](https://img.shields.io/badge/-Android_Studio-3DDC84?logo=android-studio&logoColor=white)
 - ![Pypi](https://img.shields.io/badge/-Pypi-3775A9?logo=pypi&logoColor=white)
 
-
 ## Education
 - **Master of Computer Application**
 - **Bachelor of Science - Computer Science**
-- **Higher Secondary Certificate**: 
-- **Secondary School Leaving Certificate**:
+- **Higher Secondary Certificate**
+- **Secondary School Leaving Certificate**
 
 ## Achievements 🏅
 
@@ -56,6 +55,8 @@ Hi there! I'm a passionate developer with a focus on Computer Science and Inform
 - ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 - ![Android Studio](https://img.shields.io/badge/-Android_Studio-3DDC84?logo=android-studio&logoColor=white)
 
-## Connect with Me
-- **GitHub**: [My GitHub Profile](https://github.com/your-username)
-- **LinkedIn**: [My LinkedIn Profile](https://www.linkedin.com/in/your-profile)
+## GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+
+## Git Progress
+![Git Progress](https://progress-bar.dev/80/?title=Git%20Enrolment)
