@@ -56,7 +56,11 @@ Hi there! I'm a passionate developer with a focus on Computer Science and Inform
 - ![Android Studio](https://img.shields.io/badge/-Android_Studio-3DDC84?logo=android-studio&logoColor=white)
 
 ## GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=VikasSivashankaran&show_icons=true&theme=radical)
 
 ## Git Progress
 ![Git Progress](https://progress-bar.dev/80/?title=Git%20Enrolment)
+
+## Connect with Me
+- **GitHub**: [My GitHub Profile](https://github.com/VikasSivashankaran)
+- **LinkedIn**: [My LinkedIn Profile](https://www.linkedin.com/in/your-profile)
