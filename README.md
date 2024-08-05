@@ -56,6 +56,10 @@ Hi there! I'm a passionate developer with a focus on Computer Science and Inform
 - ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 
 ## GitHub Stats
+## 📈 GitHub Stats
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=VikasSivashankaran&show_icons=true&theme=radical&count_private=true&hide=prs)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VikasSivashankaran&layout=compact&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=VikasSivashankaran&theme=radical)
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=VikasSivashankaran&show_icons=true&theme=radical)
 
 ## Top Languages
